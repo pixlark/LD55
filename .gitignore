@@ -1,0 +1,6 @@
+.vscode/
+*.exp
+*.lib
+*.obj
+*.dll
+**/log.txt
